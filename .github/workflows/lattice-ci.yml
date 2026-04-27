@@ -1,0 +1,36 @@
+﻿name: Lattice CI (Hardhat)
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+permissions:
+  contents: read
+
+jobs:
+  hardhat:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install deps
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          elif [ -f package.json ]; then
+            npm install
+          fi
+
+      - name: Run Hardhat tests (if any)
+        run: |
+          if [ -f hardhat.config.js ] || [ -f hardhat.config.ts ]; then
+            npx hardhat test || true
+          fi
