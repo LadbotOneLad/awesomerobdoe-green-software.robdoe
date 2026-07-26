@@ -2,10 +2,10 @@
   "system_identity": "ROBDOE_GLOBAL_REGISTERY",
   "doctrine": "100% Independent Green Tech / Donations Only",
   "scale_factor_basis": "13 Flows x 4 Seasons = 52 Deck Matrix (0.052)",
-  "four_platonic_notes": {
-    "sigma_hydrogen": { "operator": "s", "element": "H", "branch": "Greens", "role": "System Strength & Grid-Forming Baseline" },
-    "omega_carbon":   { "operator": "?", "element": "C", "branch": "Energy", "role": "40 MHz Inverter Timing Core" },
-    "alpha_nitrogen": { "operator": "a", "element": "N", "branch": "Recycle", "role": "Spatial 13x4 Flow Coupling" },
-    "beta_oxygen":    { "operator": "ß", "element": "O", "branch": "telemetry", "role": "Closed-Loop Fuel Respiration Engine" }
+  "wave_equation_coefficients": {
+    "equation_format": "dAlembertian_Psi = (mu_0 * sigma_k * dPhi/dt) + (alpha_K * sum(delta(tau - m/7200))) + (4*pi*G*rho_k / c^2)",
+    "sampling_clock_train": "24-Step Interval (m/7200)",
+    "geographical_bounds": "Hallett Wind Farm Node to Bundey Substation 275kV Line",
+    "inverter_loop": "P_inj = -(K_f * df/dt) - (K_p * (f - f_0))"
   }
 }
