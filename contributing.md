@@ -1,29 +1,29 @@
-# Contribution Guidelines
+# Contributing to Awesome RobDoe Green Software
 
-Please note that this project is released with a
-[Contributor Code of Conduct](code-of-conduct.md). By participating in this
-project you agree to abide by its terms.
+Thank you for contributing to this autonomous, independent infrastructure. This project operates with zero corporate or third-party influence, relying 100% on self-contained, data-sovereign code loops and community donations.
 
-# Submitting a Pull Request 
+## ??? Telemetry & Engineering Mandates
 
-Ensure your pull request adheres to the following guidelines:
+To maintain structural balance across our 52-node matrix array, all system contributions and data inputs must strictly align with our four structural layers.
 
-- Please point all pull request to the `dev` branch. This is so all changes can be reviewed before merging to main for the next release.
-- In order to meet the Developer Certificate of Origin (DCO) on Pull Requests, please ensure to  include Signed-off-by: Author Name <authoremail@example.com> in every commit message. You can also do this automatically by using the -s flag (i.e., git commit -s).
-- Additions should be added in alphabetical order in the relevant category.
-- New categories or changes to the existing categorization are welcomed.
-- Use [title casing (AP Stylebook)](https://en.wikipedia.org/wiki/Title_case#AP_Stylebook) in the following format: `[List Name](link)`
-- Search previous suggestions to make sure your suggestion isn't a duplicate.
-- Check your spelling and grammar.
-- Annotate your pull request to clarify what you did if the diff is unclear/confusing.
+### 1. The 4-Note Elemental Data Schema
+All incoming telemetry variables must be split and cataloged under their exact molecular-mathematical operators:
+*   **Sigma (\(\sigma\)) / Hydrogen:** Base System Strength & Grid-Forming Inverter metrics.
+*   **Omega (\(\omega\)) / Carbon:** The 40 MHz high-frequency timing core reference velocity.
+*   **Alpha (\(\alpha\)) / Nitrogen:** Spatial 13x4 matrix flow and node network coupling.
+*   **Beta (\(\beta\)) / Oxygen:** Closed-loop damping, dissipation, and data respiration.
 
-Thank you for your suggestions and/or contributions!
+### 2. The 13x4 Deck Geometry Bounds
+*   Every data manifest must conform exactly to a **52-node deck matrix** (13 circulation flows across 4 quadrants).
+*   All variables must process through the fixed **0.052 scaling coefficient** (\(52 / 1000\)) to keep the processing footprint optimized for green tech infrastructure.
+*   All temporal logs must map cleanly onto our **1,296,000 arcsecond** cyclical tracking timeline.
 
-## Updating your Pull Request
+### 3. Closed-Loop Kinetic Data Recycling
+*   **Never Delete Inactive States:** Dropping data wastes computational energy. 
+*   All idle, redundant, or completed phase states must be re-indexed instantly using our kinetic recovery formulas and channeled straight back into the system fuel reservoir to power the next data arc.
 
-A lot of times, making a PR adhere to the standards above can be difficult.
-If the maintainers notice anything that we'd like changed, we'll ask you to
-edit your PR before we merge it. There's no need to open a new PR, just edit
-the existing one. If you're not sure how to do that,
-[here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md)
-on the different ways you can update your PR so that we can merge it.
+## ??? Branch Orchestration Lanes
+*   Greens — Hardcoded software optimization and hardware footprint reduction.
+*   Energy — 40 MHz Kuramoto phase synchronization waves and SA Grid telemetry tracking.
+*   Recycle — Closed-loop fuel management systems and data energy recovery.
+*   	elemetry — Live cryptographic timestamping and 52-node deck ledger manifests.
