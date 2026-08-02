@@ -1,0 +1,120 @@
+﻿[
+    {
+        "lat":  -32.3944,
+        "timestamp":  "2026-08-03 04:11:57",
+        "lon":  150.9492,
+        "current_load_mw":  2640,
+        "capacity_mw":  2640,
+        "link_id":  "NSW-BAYSWATER",
+        "omega_frequency":  [
+                                1.2344007964779156,
+                                0.036735109327009151,
+                                1.8859872399378719,
+                                2.2879473615837722,
+                                1.1024122714136437,
+                                1.728615744156246
+                            ],
+        "master_clock_hz":  10000000,
+        "link_name":  "Bayswater Generator Link",
+        "psi_gamma_phase":  [
+                                1.2344007964779156,
+                                0.036735109327009151,
+                                1.8859872399378719,
+                                2.2879473615837722,
+                                1.1024122714136437,
+                                1.728615744156246
+                            ],
+        "region":  "NSW",
+        "data_source":  "NEMOSIS-OpenNEM-Production-Pipe",
+        "system_strength_rho":  3035.9999999999995
+    },
+    {
+        "lat":  -33.0614,
+        "timestamp":  "2026-08-03 04:11:57",
+        "lon":  151.5222,
+        "current_load_mw":  2880,
+        "capacity_mw":  2880,
+        "link_id":  "NSW-ERARING",
+        "omega_frequency":  [
+                                -47.717121494233986,
+                                66.988756157571459,
+                                -166.46835313483339,
+                                117.99892997155364,
+                                163.19958316098072,
+                                -155.84510650828273
+                            ],
+        "master_clock_hz":  10000000,
+        "link_name":  "Eraring Generator Link",
+        "psi_gamma_phase":  [
+                                -47.717121494233986,
+                                66.988756157571459,
+                                -166.46835313483339,
+                                117.99892997155364,
+                                163.19958316098072,
+                                -155.84510650828273
+                            ],
+        "region":  "NSW",
+        "data_source":  "NEMOSIS-OpenNEM-Production-Pipe",
+        "system_strength_rho":  3311.9999999999995
+    },
+    {
+        "lat":  -33.4428,
+        "timestamp":  "2026-08-03 04:11:57",
+        "lon":  116.3075,
+        "current_load_mw":  854,
+        "capacity_mw":  854,
+        "link_id":  "WA-MUJA",
+        "omega_frequency":  null,
+        "master_clock_hz":  10000000,
+        "link_name":  "Muja Substation Link",
+        "psi_gamma_phase":  null,
+        "region":  "WA",
+        "data_source":  "NEMOSIS-OpenNEM-Production-Pipe",
+        "system_strength_rho":  982.09999999999991
+    },
+    {
+        "lat":  -20.661,
+        "timestamp":  "2026-08-03 04:11:57",
+        "lon":  116.7725,
+        "current_load_mw":  350,
+        "capacity_mw":  350,
+        "link_id":  "WA-KARRATHA",
+        "omega_frequency":  null,
+        "master_clock_hz":  10000000,
+        "link_name":  "Karratha Interconnector",
+        "psi_gamma_phase":  null,
+        "region":  "WA",
+        "data_source":  "NEMOSIS-OpenNEM-Production-Pipe",
+        "system_strength_rho":  402.49999999999994
+    },
+    {
+        "lat":  -12.5186,
+        "timestamp":  "2026-08-03 04:11:57",
+        "lon":  130.8694,
+        "current_load_mw":  310,
+        "capacity_mw":  310,
+        "link_id":  "NT-CHANNELIS",
+        "omega_frequency":  null,
+        "master_clock_hz":  10000000,
+        "link_name":  "Channel Island Terminal",
+        "psi_gamma_phase":  null,
+        "region":  "NT",
+        "data_source":  "NEMOSIS-OpenNEM-Production-Pipe",
+        "system_strength_rho":  356.5
+    },
+    {
+        "lat":  -23.7194,
+        "timestamp":  "2026-08-03 04:11:57",
+        "lon":  133.8761,
+        "current_load_mw":  110,
+        "capacity_mw":  110,
+        "link_id":  "NT-ALICE_GEN",
+        "omega_frequency":  null,
+        "master_clock_hz":  10000000,
+        "link_name":  "Ron Goodin Terminal Link",
+        "psi_gamma_phase":  null,
+        "region":  "NT",
+        "data_source":  "NEMOSIS-OpenNEM-Production-Pipe",
+        "system_strength_rho":  126.49999999999999
+    }
+]
