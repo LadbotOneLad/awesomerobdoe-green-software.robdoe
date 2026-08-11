@@ -1,0 +1,722 @@
+{
+    "conductor": "Eric The Viking (PHILL)",
+    "architect": "robdoe",
+    "genesis": "e14f9a8d",
+    "doctrine": "88-Key Piano Repository Orchestration",
+    "harmonic_constants": {
+        "arcsec_total": 1296000,
+        "divisor": 3600,
+        "seconds_day": 86400,
+        "hours_day": 24,
+        "reciprocal_scale": 0.0001388888888888889,
+        "harmonic_ratio": 0.052
+    },
+    "keyboard": [
+        {
+            "key_number": 1,
+            "pitch": "C0",
+            "repository_vector": "repo-key-01-c0",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 2,
+            "pitch": "C#0",
+            "repository_vector": "repo-key-02-c#0",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 3,
+            "pitch": "D0",
+            "repository_vector": "repo-key-03-d0",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 4,
+            "pitch": "D#0",
+            "repository_vector": "repo-key-04-d#0",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 5,
+            "pitch": "E0",
+            "repository_vector": "repo-key-05-e0",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 6,
+            "pitch": "F0",
+            "repository_vector": "repo-key-06-f0",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 7,
+            "pitch": "F#0",
+            "repository_vector": "repo-key-07-f#0",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 8,
+            "pitch": "G0",
+            "repository_vector": "repo-key-08-g0",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 9,
+            "pitch": "G#0",
+            "repository_vector": "repo-key-09-g#0",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 10,
+            "pitch": "A0",
+            "repository_vector": "repo-key-10-a0",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 11,
+            "pitch": "A#0",
+            "repository_vector": "repo-key-11-a#0",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 12,
+            "pitch": "B0",
+            "repository_vector": "repo-key-12-b0",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 13,
+            "pitch": "C1",
+            "repository_vector": "repo-key-13-c1",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 14,
+            "pitch": "C#1",
+            "repository_vector": "repo-key-14-c#1",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 15,
+            "pitch": "D1",
+            "repository_vector": "repo-key-15-d1",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 16,
+            "pitch": "D#1",
+            "repository_vector": "repo-key-16-d#1",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 17,
+            "pitch": "E1",
+            "repository_vector": "repo-key-17-e1",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 18,
+            "pitch": "F1",
+            "repository_vector": "repo-key-18-f1",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 19,
+            "pitch": "F#1",
+            "repository_vector": "repo-key-19-f#1",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 20,
+            "pitch": "G1",
+            "repository_vector": "repo-key-20-g1",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 21,
+            "pitch": "G#1",
+            "repository_vector": "repo-key-21-g#1",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 22,
+            "pitch": "A1",
+            "repository_vector": "repo-key-22-a1",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 23,
+            "pitch": "A#1",
+            "repository_vector": "repo-key-23-a#1",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 24,
+            "pitch": "B1",
+            "repository_vector": "repo-key-24-b1",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 25,
+            "pitch": "C2",
+            "repository_vector": "repo-key-25-c2",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 26,
+            "pitch": "C#2",
+            "repository_vector": "repo-key-26-c#2",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 27,
+            "pitch": "D2",
+            "repository_vector": "repo-key-27-d2",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 28,
+            "pitch": "D#2",
+            "repository_vector": "repo-key-28-d#2",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 29,
+            "pitch": "E2",
+            "repository_vector": "repo-key-29-e2",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 30,
+            "pitch": "F2",
+            "repository_vector": "repo-key-30-f2",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 31,
+            "pitch": "F#2",
+            "repository_vector": "repo-key-31-f#2",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 32,
+            "pitch": "G2",
+            "repository_vector": "repo-key-32-g2",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 33,
+            "pitch": "G#2",
+            "repository_vector": "repo-key-33-g#2",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 34,
+            "pitch": "A2",
+            "repository_vector": "repo-key-34-a2",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 35,
+            "pitch": "A#2",
+            "repository_vector": "repo-key-35-a#2",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 36,
+            "pitch": "B2",
+            "repository_vector": "repo-key-36-b2",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 37,
+            "pitch": "C3",
+            "repository_vector": "repo-key-37-c3",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 38,
+            "pitch": "C#3",
+            "repository_vector": "repo-key-38-c#3",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 39,
+            "pitch": "D3",
+            "repository_vector": "repo-key-39-d3",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 40,
+            "pitch": "D#3",
+            "repository_vector": "repo-key-40-d#3",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 41,
+            "pitch": "E3",
+            "repository_vector": "repo-key-41-e3",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 42,
+            "pitch": "F3",
+            "repository_vector": "repo-key-42-f3",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 43,
+            "pitch": "F#3",
+            "repository_vector": "repo-key-43-f#3",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 44,
+            "pitch": "G3",
+            "repository_vector": "repo-key-44-g3",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 45,
+            "pitch": "G#3",
+            "repository_vector": "repo-key-45-g#3",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 46,
+            "pitch": "A3",
+            "repository_vector": "repo-key-46-a3",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 47,
+            "pitch": "A#3",
+            "repository_vector": "repo-key-47-a#3",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 48,
+            "pitch": "B3",
+            "repository_vector": "repo-key-48-b3",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 49,
+            "pitch": "C4",
+            "repository_vector": "repo-key-49-c4",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 50,
+            "pitch": "C#4",
+            "repository_vector": "repo-key-50-c#4",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 51,
+            "pitch": "D4",
+            "repository_vector": "repo-key-51-d4",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 52,
+            "pitch": "D#4",
+            "repository_vector": "repo-key-52-d#4",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 53,
+            "pitch": "E4",
+            "repository_vector": "repo-key-53-e4",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 54,
+            "pitch": "F4",
+            "repository_vector": "repo-key-54-f4",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 55,
+            "pitch": "F#4",
+            "repository_vector": "repo-key-55-f#4",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 56,
+            "pitch": "G4",
+            "repository_vector": "repo-key-56-g4",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 57,
+            "pitch": "G#4",
+            "repository_vector": "repo-key-57-g#4",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 58,
+            "pitch": "A4",
+            "repository_vector": "repo-key-58-a4",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 59,
+            "pitch": "A#4",
+            "repository_vector": "repo-key-59-a#4",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 60,
+            "pitch": "B4",
+            "repository_vector": "repo-key-60-b4",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 61,
+            "pitch": "C5",
+            "repository_vector": "repo-key-61-c5",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 62,
+            "pitch": "C#5",
+            "repository_vector": "repo-key-62-c#5",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 63,
+            "pitch": "D5",
+            "repository_vector": "repo-key-63-d5",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 64,
+            "pitch": "D#5",
+            "repository_vector": "repo-key-64-d#5",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 65,
+            "pitch": "E5",
+            "repository_vector": "repo-key-65-e5",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 66,
+            "pitch": "F5",
+            "repository_vector": "repo-key-66-f5",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 67,
+            "pitch": "F#5",
+            "repository_vector": "repo-key-67-f#5",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 68,
+            "pitch": "G5",
+            "repository_vector": "repo-key-68-g5",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 69,
+            "pitch": "G#5",
+            "repository_vector": "repo-key-69-g#5",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 70,
+            "pitch": "A5",
+            "repository_vector": "repo-key-70-a5",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 71,
+            "pitch": "A#5",
+            "repository_vector": "repo-key-71-a#5",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 72,
+            "pitch": "B5",
+            "repository_vector": "repo-key-72-b5",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 73,
+            "pitch": "C6",
+            "repository_vector": "repo-key-73-c6",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 74,
+            "pitch": "C#6",
+            "repository_vector": "repo-key-74-c#6",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 75,
+            "pitch": "D6",
+            "repository_vector": "repo-key-75-d6",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 76,
+            "pitch": "D#6",
+            "repository_vector": "repo-key-76-d#6",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 77,
+            "pitch": "E6",
+            "repository_vector": "repo-key-77-e6",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 78,
+            "pitch": "F6",
+            "repository_vector": "repo-key-78-f6",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 79,
+            "pitch": "F#6",
+            "repository_vector": "repo-key-79-f#6",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 80,
+            "pitch": "G6",
+            "repository_vector": "repo-key-80-g6",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 81,
+            "pitch": "G#6",
+            "repository_vector": "repo-key-81-g#6",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 82,
+            "pitch": "A6",
+            "repository_vector": "repo-key-82-a6",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 83,
+            "pitch": "A#6",
+            "repository_vector": "repo-key-83-a#6",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 84,
+            "pitch": "B6",
+            "repository_vector": "repo-key-84-b6",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 85,
+            "pitch": "C7",
+            "repository_vector": "repo-key-85-c7",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 86,
+            "pitch": "C#7",
+            "repository_vector": "repo-key-86-c#7",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 87,
+            "pitch": "D7",
+            "repository_vector": "repo-key-87-d7",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        },
+        {
+            "key_number": 88,
+            "pitch": "D#7",
+            "repository_vector": "repo-key-88-d#7",
+            "conductor": "Eric The Viking (PHILL)",
+            "architect": "robdoe",
+            "state": "Hammer Struck & Resonating"
+        }
+    ],
+    "execution_mode": "Full 88-Key Polyphonic Resonance",
+    "piano_super_root": "d69ea2a9101ec386fc08a8fd08b78545fe1ac26e5dbcbae147f8297e4a1f8c9dbf0b1318ce99d35e2c81fbb6444ca841d5ecd5e49b786576001e05fedab428ea"
+}
