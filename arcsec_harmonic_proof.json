@@ -1,0 +1,10 @@
+{
+    "operator": "Eric The Viking (PHILL)",
+    "genesis": "e14f9a8d",
+    "total_arc_seconds": 1296000,
+    "divisor": 3600,
+    "base_ratio": 360.0,
+    "temporal_velocity": 3.6,
+    "doctrine": "Law of Shaped Force Harmonic Alignment",
+    "arcsec_super_root": "eff8a01940cf29d7c4356fd384039cd7140f842360fa0677f00b234db1ee64249cc2ac0da20a4bb1a60eb0db6883ea50f79f2aa36d10dab0f0112f7464d5d7b3"
+}
