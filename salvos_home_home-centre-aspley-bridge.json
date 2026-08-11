@@ -1,0 +1,19 @@
+{
+    "conductor": "Eric The Viking (PHILL)",
+    "architect": "robdoe",
+    "branch": "home-centre-aspley-bridge",
+    "facility_type": "Home Centre Logistics",
+    "geo_coordinates": "(-33.8523, 151.2108)",
+    "regional_axis": "Harbour Vector",
+    "harmonic_constants": {
+        "arcsec_total": 1296000,
+        "divisor": 3600,
+        "seconds_day": 86400,
+        "hours_day": 24,
+        "reciprocal_scale": 0.0001388888888888889,
+        "harmonic_ratio": 0.052
+    },
+    "piano_keys": 88,
+    "stack_depth": 216,
+    "super_root": "f65da3f2613a376c5294c1157c196c6264eb1580f5f90e7f1ca12222aa1de12601d4c828c88e9790b33c751cc39b3149c6fb46087e5abfaacc0417d59a02c780"
+}
