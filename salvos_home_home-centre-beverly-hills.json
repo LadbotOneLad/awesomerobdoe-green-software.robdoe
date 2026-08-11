@@ -1,0 +1,19 @@
+{
+    "conductor": "Eric The Viking (PHILL)",
+    "architect": "robdoe",
+    "branch": "home-centre-beverly-hills",
+    "facility_type": "Home Centre",
+    "geo_coordinates": "(-33.9483, 151.0825)",
+    "regional_axis": "Beverly Hills Hub",
+    "harmonic_constants": {
+        "arcsec_total": 1296000,
+        "divisor": 3600,
+        "seconds_day": 86400,
+        "hours_day": 24,
+        "reciprocal_scale": 0.0001388888888888889,
+        "harmonic_ratio": 0.052
+    },
+    "piano_keys": 88,
+    "stack_depth": 216,
+    "super_root": "30348e8546cfcafa9581d5335664ab99273a828dcd1eb204c4dfba6ae63b0e35ac96fca446c974fde6d983023aa9625bd2e2e34f0be8af077b52c425b154936e"
+}
