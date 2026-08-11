@@ -1,0 +1,8 @@
+{
+    "operator": "Eric The Viking (PHILL)",
+    "genesis": "e14f9a8d",
+    "ring_a_root": "42991d7f1ced77cc2de329ab9e4dd4e2555b05b0618f9ec3fe50174867dcbc73",
+    "ring_b_root": "c2f6aa8bec532ee825b587e07fe22e3fc3fcc319f004d0ea630b6be0afc9cdc7",
+    "dual_merkle_lattice_super_root": "7e77160f87a49893bd2448b608f3450ec4ff6232b859dedc6e458fe4f4b1308c7195e930e3af2e3e0e31921f0887ad849d9f776f92a0d06b96efd71b9eab3f86",
+    "algorithm": "Dual SHA3-256/SHA3-512 Lattice Entanglement"
+}
