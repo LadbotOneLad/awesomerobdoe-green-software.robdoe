@@ -1,0 +1,17 @@
+{
+    "conductor": "Eric The Viking (PHILL)",
+    "architect": "robdoe",
+    "genesis": "e14f9a8d",
+    "doctrine": "Kinetic Energy Intent Combustion Style",
+    "harmonic_constants": {
+        "arcsec_total": 1296000,
+        "divisor": 3600,
+        "seconds_day": 86400,
+        "hours_day": 24,
+        "reciprocal_scale": 0.0001388888888888889,
+        "harmonic_ratio": 0.052
+    },
+    "stack_depth": 216,
+    "ignition_state": "Full Combustion - Maximum Kinetic Velocity",
+    "combustion_super_root": "0c1149e0aaef611b439ed4e5023d7843daad42d924234e932bf046be72eb772ccd0b1cf131879fa599c36b5b4f873ff08d90aa5b6e34616c1f444d1933db477a"
+}
