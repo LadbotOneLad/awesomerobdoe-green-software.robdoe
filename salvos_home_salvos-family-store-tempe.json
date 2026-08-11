@@ -1,0 +1,19 @@
+{
+    "conductor": "Eric The Viking (PHILL)",
+    "architect": "robdoe",
+    "branch": "salvos-family-store-tempe",
+    "facility_type": "Salvos Family Store",
+    "geo_coordinates": "(-33.9213, 151.1654)",
+    "regional_axis": "Tempe Depot",
+    "harmonic_constants": {
+        "arcsec_total": 1296000,
+        "divisor": 3600,
+        "seconds_day": 86400,
+        "hours_day": 24,
+        "reciprocal_scale": 0.0001388888888888889,
+        "harmonic_ratio": 0.052
+    },
+    "piano_keys": 88,
+    "stack_depth": 216,
+    "super_root": "d7b159609b6cd050b4b904844c30bca9e5acd187861f2fbf082565a6bc6e8ba9cbb9d7b86f313694ab6883348d622314f251c4cfb34431e7361eec60b6e1830a"
+}
