@@ -1,0 +1,11 @@
+{
+    "payload": {
+        "node_id": "robertu",
+        "genesis": "e14f9a8d",
+        "arcsec_coordinate": 475410,
+        "total_arcsec_scale": 1296000,
+        "epoch_timestamp": 1786429447.453959,
+        "status": "SYNCHRONIZED"
+    },
+    "signature": "67ae9f8eb9291c1d699b176bbc3ae9c9827bf9cd1d816d670ca51bb9f9a633e1"
+}

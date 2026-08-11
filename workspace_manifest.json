@@ -1,0 +1,9 @@
+{
+    "node_id": "robertu",
+    "components": {
+        "termux_automation": "termux_daemon_manager.py",
+        "repo_hygiene": "repo_hygiene.py",
+        "ai_bridge": "ollama_bridge_core.py"
+    },
+    "status": "Saved & Verified"
+}

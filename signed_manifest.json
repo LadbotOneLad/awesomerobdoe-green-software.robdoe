@@ -1,0 +1,13 @@
+{
+    "manifest_content": {
+        "node_id": "robertu",
+        "components": {
+            "termux_automation": "termux_daemon_manager.py",
+            "repo_hygiene": "repo_hygiene.py",
+            "ai_bridge": "ollama_bridge_core.py"
+        },
+        "status": "Saved & Verified"
+    },
+    "crypto_signature": "fe2b7202d25f4bd728b1367e5738990750370abb7aec43268fddb6b2738c7bd2",
+    "algorithm": "HMAC-SHA256"
+}
