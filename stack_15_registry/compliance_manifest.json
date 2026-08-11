@@ -1,0 +1,7 @@
+{
+    "framework": "ACSC Information Security Manual (ISM) & Essential Eight",
+    "node_id": "PHILL-MOTO-GENESIS",
+    "application_control": "Enforced (0700 file permission locks)",
+    "patch_management": "Automated via kinetic wrapper",
+    "status": "Active & Synchronized"
+}
