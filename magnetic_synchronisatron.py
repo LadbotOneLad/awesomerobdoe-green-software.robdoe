@@ -20,12 +20,12 @@ class MAGNETIC_SYNCHRONISATRON:
                 dist = np.abs(i - j)
                 zha_matrix[i][j] = np.cos(dist / 50) * self.device_magnetic_field if dist > 0 else self.device_magnetic_field
         eigenvalues = np.linalg.eigvals(zha_matrix)
-        
+
         # FIXED: Corrected numpy dot notation for trig functions
         angles = np.linspace(0, 360, self.tron_validators, endpoint=False)
         vectors = np.array([[np.cos(np.radians(a)), np.sin(np.radians(a))] for a in angles])
         mag = np.linalg.norm(np.sum(vectors, axis=0))
-        
+
         return {
             "eigenvalues_mean": float(np.mean(eigenvalues).real),
             "consensus_state": "LOCKED" if (mag/self.tron_validators) > 0.6 else "SEEKING",
